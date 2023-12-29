@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703551927 source:c:\users\dell\onedrive\desktop\mastering 4 critical skills in c++\15 project #2 - library\librarysystem\main.cpp
+	<iostream>
+	<algorithm>
+
